@@ -93,6 +93,8 @@ with open(plik_wyjsciowy, 'w') as f: # lub tak (wtedy z plik automatycznie zosta
 
 plik_zrodlowy.close()
 
+raw_input('koniec')
+
 
 
 
