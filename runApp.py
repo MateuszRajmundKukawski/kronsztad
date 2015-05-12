@@ -69,7 +69,6 @@ else:
 os.system('cls')
 
 
-print '\n'*50
 
 print "Wybrano plik:", nazwa_pliku
 print "Wybrano wartosc:", korekta
