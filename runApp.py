@@ -1,4 +1,5 @@
 #-*- coding: windows-1250 -*-
+'''tu opis techniczny, dokładny co i jak się dzieje'''
 import glob
 import os
 
@@ -37,6 +38,8 @@ while True:
 
 
 korekta = raw_input('Aby zakonczyc wpisz: koniec\nlub podaj wartość: ')
+
+
 while True:
     if korekta == 'koniec':
         raw_input('Koniec, dowolny klawisz aby zakończyć')
@@ -51,13 +54,14 @@ while True:
 
 
 plik_wyjsciowy = raw_input('Podaj nazwę pliku wyjściowego\n[enter]\t->\t domyślna nazwa:\twynikowy.txt\n<nazwa bez rozszerzenia>: ')
+
+
 if plik_wyjsciowy == '':
     plik_wyjsciowy = 'wynik.txt'
 elif plik_wyjsciowy == 'koniec':
     raw_input('Koniec, dowolny klawisz aby zakończyć')
 else:
     plik_wyjsciowy = plik_wyjsciowy+'.txt'
-
 
 try:
     os.system('clear')
@@ -66,10 +70,6 @@ except:
     print '\n'*50
 
 print '\n'*50
-
-
-
-
 
 print "Wybrano plik:", nazwa_pliku
 print "Wybrano wartosc:", korekta
@@ -90,7 +90,8 @@ with open(plik_wyjsciowy, 'w') as f: # lub tak (wtedy z plik automatycznie zosta
                 nowa_wartosc = wartosc
 
         print id_wartosci, wartosc, nowa_wartosc, przelicz
-        f.write(id_wartosci+';'+nowa_wartosc+';'+przelicz+'\n')
+        # f.write(id_wartosci+';'+nowa_wartosc+';'+przelicz+'\n')
+        f.write(';'.join([id_wartosci, nowa_wartosc, przelicz+'\n']))
 
 plik_zrodlowy.close()
 
