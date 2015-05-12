@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1e37365-1ee7-4996-b7d5-e00eff675cf1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runApp.py" afterPath="$PROJECT_DIR$/runApp.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="untitled11.iws" />
@@ -29,8 +30,8 @@
       <file leaf-file-name="runApp.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/runApp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.026978416" vertical-offset="0" max-vertical-offset="1620">
-              <caret line="1" column="54" selection-start-line="1" selection-start-column="54" selection-end-line="1" selection-end-column="54" />
+            <state vertical-scroll-proportion="-1.3489208" vertical-offset="855" max-vertical-offset="1650">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -55,6 +56,11 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -335,7 +341,13 @@
       <option name="project" value="LOCAL" />
       <updated>1431463349880</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="tests commint and push">
+      <created>1431463392760</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1431463392760</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -381,7 +393,8 @@
     </option>
     <option name="SHOW_PATCH_IN_EXPLORER" value="false" />
     <MESSAGE value="test pycharm commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="test pycharm commit" />
+    <MESSAGE value="tests commint and push" />
+    <option name="LAST_COMMIT_MESSAGE" value="tests commint and push" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -428,8 +441,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/runApp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.026978416" vertical-offset="0" max-vertical-offset="1620">
-          <caret line="1" column="54" selection-start-line="1" selection-start-column="54" selection-end-line="1" selection-end-column="54" />
+        <state vertical-scroll-proportion="-1.3489208" vertical-offset="855" max-vertical-offset="1650">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>

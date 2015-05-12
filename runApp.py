@@ -5,6 +5,8 @@ import os
 
 print """tu nale¿y dodaæ opis, co robi, jak robi i po co
 to wa¿ne\n"""
+
+
 lista_plikow = glob.glob('*.txt') #modu³ glob.glob tworzy listê pliów, w nawiassach podajemy œcie¿kê
                                 # tu wystarczy '*.txt' - lista wszystkich plików txt w folderze,
                                 # w którym jest program
