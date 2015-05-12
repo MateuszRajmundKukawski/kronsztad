@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1e37365-1ee7-4996-b7d5-e00eff675cf1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/runApp.py" afterPath="$PROJECT_DIR$/runApp.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wynik.txt" afterPath="$PROJECT_DIR$/wynik.txt" />
     </list>
     <ignored path="untitled11.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -331,7 +329,13 @@
       <option name="project" value="LOCAL" />
       <updated>1431462881922</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test pycharm commit">
+      <created>1431463349880</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1431463349880</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
