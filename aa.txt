@@ -1,0 +1,15 @@
+
+wartosc = raw_input('Aby zakonczyc wpisz: koniec\nlub podaj numer pliku: ')
+while True:
+    pass
+
+if index_nawy_pliku == 'koniec':
+    raw_input('Koniec\ndowolny klawisz aby zakończyć')
+else:
+    print "Wybrano plik: ", nazwa_pliku
+    plik_zrodlowy = open(nazwa_pliku)
+    for linia in plik_zrodlowy:
+        linia = linia.rstrip('\n')
+        id_wartosci = linia[0]
+        wartosc = linia[1]
+        przelicz = linia[2]
