@@ -65,11 +65,9 @@ elif plik_wyjsciowy == 'koniec':
 else:
     plik_wyjsciowy = plik_wyjsciowy+'.txt'
 
-try:
-    os.system('clear')
-    os.system('cls')
-except:
-    print '\n'*50
+
+os.system('cls')
+
 
 print '\n'*50
 
