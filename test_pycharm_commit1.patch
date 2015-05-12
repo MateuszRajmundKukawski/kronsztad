@@ -1,0 +1,72 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(date 1431462423000)
++++ .idea/workspace.xml	(revision )
+@@ -15,7 +15,7 @@
+   </component>
+   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+   <component name="CreatePatchCommitExecutor">
+-    <option name="PATCH_PATH" value="" />
++    <option name="PATCH_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="DaemonCodeAnalyzer">
+     <disable_hints />
+@@ -29,8 +29,8 @@
+       <file leaf-file-name="runApp.py" pinned="false" current-in-tab="true">
+         <entry file="file://$PROJECT_DIR$/runApp.py">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state vertical-scroll-proportion="0.9074733" vertical-offset="150" max-vertical-offset="1560">
+-              <caret line="62" column="20" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
++            <state vertical-scroll-proportion="0.82206404" vertical-offset="717" max-vertical-offset="1590">
++              <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+               <folding />
+             </state>
+           </provider>
+@@ -298,12 +298,30 @@
+       <option name="project" value="LOCAL" />
+       <updated>1431462369181</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="test pycharm commit">
++      <created>1431462423267</created>
++      <option name="number" value="00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1431462423267</updated>
++    </task>
++    <task id="LOCAL-00003" summary="test pycharm commit">
++      <created>1431462489490</created>
++      <option name="number" value="00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1431462489490</updated>
++    </task>
++    <task id="LOCAL-00004" summary="test pycharm commit">
++      <created>1431462569689</created>
++      <option name="number" value="00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1431462569689</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="ToolWindowManager">
+     <frame x="-1" y="0" width="1682" height="1025" extended-state="6" />
+-    <editor active="false" />
++    <editor active="true" />
+     <layout>
+       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32912844" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+@@ -390,8 +408,8 @@
+     </entry>
+     <entry file="file://$PROJECT_DIR$/runApp.py">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state vertical-scroll-proportion="0.9074733" vertical-offset="150" max-vertical-offset="1560">
+-          <caret line="62" column="20" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
++        <state vertical-scroll-proportion="0.82206404" vertical-offset="717" max-vertical-offset="1590">
++          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+           <folding />
+         </state>
+       </provider>
+\ No newline at end of file

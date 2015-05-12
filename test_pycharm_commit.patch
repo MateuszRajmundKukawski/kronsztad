@@ -1,0 +1,23 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(date 1431462423000)
++++ .idea/workspace.xml	(revision )
+@@ -298,7 +298,13 @@
+       <option name="project" value="LOCAL" />
+       <updated>1431462369181</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="test pycharm commit">
++      <created>1431462423267</created>
++      <option name="number" value="00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1431462423267</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="ToolWindowManager">
+\ No newline at end of file
